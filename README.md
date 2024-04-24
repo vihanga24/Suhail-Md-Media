@@ -54,7 +54,7 @@ https://gist.githubusercontent.com/SuhailTechInfo/1c29c84bd1890320d587c04e5c24a4
 
 Sends Your Intro
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/intro.js
+https://raw.githubusercontent.com/vihanga24/Suhail-Md-Media/main/plugins/intro.js
 ```
 - Editable Plugin : fork it, and fill your information!
 ---
